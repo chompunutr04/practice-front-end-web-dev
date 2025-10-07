@@ -15,4 +15,3 @@ The main goal is to practice building interactive UI using **Vue.js**, and to ex
 - JavaScript  
 - **Vue.js**  
 
-## 📁 Repository Structure (example)
